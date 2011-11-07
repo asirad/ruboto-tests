@@ -1,0 +1,23 @@
+/home/pawel/git/ruboto-tests/bin/classes.dex : \
+/home/pawel/git/ruboto-tests/bin/classes/com/ruboto/tests/R$layout.class \
+/home/pawel/git/ruboto-tests/bin/classes/com/ruboto/tests/RubotoTests$2$1.class \
+/home/pawel/git/ruboto-tests/bin/classes/com/ruboto/tests/RubotoTests$3.class \
+/home/pawel/git/ruboto-tests/bin/classes/com/ruboto/tests/R.class \
+/home/pawel/git/ruboto-tests/bin/classes/com/ruboto/tests/RubotoTests$2$2.class \
+/home/pawel/git/ruboto-tests/bin/classes/com/ruboto/tests/R$id.class \
+/home/pawel/git/ruboto-tests/bin/classes/com/ruboto/tests/RubotoTests$1.class \
+/home/pawel/git/ruboto-tests/bin/classes/com/ruboto/tests/R$string.class \
+/home/pawel/git/ruboto-tests/bin/classes/com/ruboto/tests/RubotoTests.class \
+/home/pawel/git/ruboto-tests/bin/classes/com/ruboto/tests/R$drawable.class \
+/home/pawel/git/ruboto-tests/bin/classes/com/ruboto/tests/RubotoTests$2.class \
+/home/pawel/git/ruboto-tests/bin/classes/com/ruboto/tests/R$attr.class \
+/home/pawel/git/ruboto-tests/bin/classes/org/ruboto/RubotoBroadcastReceiver.class \
+/home/pawel/git/ruboto-tests/bin/classes/org/ruboto/RubotoService.class \
+/home/pawel/git/ruboto-tests/bin/classes/org/ruboto/RubotoDialog.class \
+/home/pawel/git/ruboto-tests/bin/classes/org/ruboto/Script$1.class \
+/home/pawel/git/ruboto-tests/bin/classes/org/ruboto/callbacks/RubotoOnClickListener.class \
+/home/pawel/git/ruboto-tests/bin/classes/org/ruboto/callbacks/RubotoOnItemSelectedListener.class \
+/home/pawel/git/ruboto-tests/bin/classes/org/ruboto/callbacks/RubotoOnItemClickListener.class \
+/home/pawel/git/ruboto-tests/bin/classes/org/ruboto/Script.class \
+/home/pawel/git/ruboto-tests/bin/classes/org/ruboto/RubotoView.class \
+/home/pawel/git/ruboto-tests/bin/classes/org/ruboto/RubotoActivity.class \
