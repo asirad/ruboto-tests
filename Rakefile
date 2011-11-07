@@ -367,7 +367,7 @@ def update_scripts
   Dir.chdir('src') do
     Dir["**/*.rb"].each do |script_file|
       next if File.directory? script_file
-      next if File.mtime(script_file) < last_update
+      #next if File.mtime(script_file) < last_update
       next if script_file =~ /~$/
       print "#{script_file}: "; $stdout.flush
       `adb push #{script_file} #{scripts_path}/#{script_file}`
